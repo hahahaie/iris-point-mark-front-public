@@ -1,0 +1,1 @@
+import{s as e}from"./request-Cs-5J-qA.js";const s={register(r){return e({url:"/v1/user/register",method:"post",data:r})},login(r){return e({url:"/v1/user/login",method:"post",data:r})},bind(r){return e({url:"/v1/user/bind",method:"post",data:r})},info(r){return e({url:"/v1/user/info",method:"get",params:r})}};export{s as u};
